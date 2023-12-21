@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+table,
+td {
+	opacity: 1px solid #fff;
+}
+
+td {
+	width: 100px;
+	height: 20px;
+}
+
+.yu {
+	background-color: gold;
+}
